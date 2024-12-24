@@ -1,0 +1,6 @@
+ipykernel
+pandas
+numpy
+matplotlib
+seaborn
+boto3=1.35.87
